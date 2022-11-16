@@ -2,6 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Sprint_1/Sprint_1.iml" filepath="$PROJECT_DIR$/Sprint_1/Sprint_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_2/Sprint_2.iml" filepath="$PROJECT_DIR$/Sprint_2/Sprint_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_3/Sprint_3.iml" filepath="$PROJECT_DIR$/Sprint_3/Sprint_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_4/Sprint_4.iml" filepath="$PROJECT_DIR$/Sprint_4/Sprint_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_5/Sprint_5.iml" filepath="$PROJECT_DIR$/Sprint_5/Sprint_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_6/Sprint_6.iml" filepath="$PROJECT_DIR$/Sprint_6/Sprint_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_7/Sprint_7.iml" filepath="$PROJECT_DIR$/Sprint_7/Sprint_7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sprint_8/Sprint_8.iml" filepath="$PROJECT_DIR$/Sprint_8/Sprint_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/YP_algorithms.iml" filepath="$PROJECT_DIR$/YP_algorithms.iml" />
     </modules>
   </component>

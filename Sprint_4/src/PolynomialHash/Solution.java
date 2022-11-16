@@ -1,2 +1,4 @@
-package PolynomialHash;public class Solution {
+package PolynomialHash;
+
+public class Solution {
 }

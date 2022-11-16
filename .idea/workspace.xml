@@ -1,11 +1,131 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2d4b2eb-8bd1-403d-8b37-a0bea81c1aaf" name="Changes" comment="" />
+    <list default="true" id="b2d4b2eb-8bd1-403d-8b37-a0bea81c1aaf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_1/src/ClosestZero/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_1/src/ClosestZero/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_1/src/SleightOfHand/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_1/src/SleightOfHand/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_1/src/SleightOfHand/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_1/src/SleightOfHand/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/BracketSequence/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/BracketSequence/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/BracketSequence/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/BracketSequence/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Calculator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Calculator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Calculator/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Calculator/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/CaringMother/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/CaringMother/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/CaringMother/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/CaringMother/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Deque/Deque.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Deque/Deque.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Deque/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Deque/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Deque/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Deque/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/ItIsTheOtherWayAround/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/ItIsTheOtherWayAround/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/ItIsTheOtherWayAround/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/ItIsTheOtherWayAround/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/LimitedQueue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/LimitedQueue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/LimitedQueue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/LimitedQueue/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/ListQueue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/ListQueue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/ListQueue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/ListQueue/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Monitoring/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Monitoring/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/Monitoring/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/Monitoring/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/RecursiveFibonacciNumbers/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/RecursiveFibonacciNumbers/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/RecursiveFibonacciNumbers/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/RecursiveFibonacciNumbers/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/StackMax/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/StackMax/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/StackMax/StackMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/StackMax/StackMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/StackMaxEffective/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/StackMaxEffective/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/StackMaxEffective/StackMaxEffective.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/StackMaxEffective/StackMaxEffective.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/ToDoList/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/ToDoList/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/ToDoList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/ToDoList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/UnlovedBusiness/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/UnlovedBusiness/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_2/src/UnlovedBusiness/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_2/src/UnlovedBusiness/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/BracketGenerator/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/BracketGenerator/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/BracketGenerator/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/BracketGenerator/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/EfficientQuickSort/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/SearchInABrokenArray/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/SearchInABrokenArray/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/SearchInABrokenArray/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/SearchInABrokenArray/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/Wardrobe/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/Wardrobe/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_3/src/Wardrobe/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_3/src/Wardrobe/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/AnagramGrouping/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/AnagramGrouping/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/AnagramGrouping/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/AnagramGrouping/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/HashTable/MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/HashTable/MyHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/HashTable/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/HashTable/Node.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/HashTable/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/HashTable/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/HashTable/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/HashTable/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/PolynomialHash/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/PolynomialHash/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/PolynomialHash/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/PolynomialHash/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/PrefixHashes/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/PrefixHashes/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/PrefixHashes/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/PrefixHashes/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/Parser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/Parser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/Searcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/Searcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/SearchSystem/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/Section/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/Section/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/Section/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/Section/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/Substrings/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/Substrings/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_4/src/Substrings/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_4/src/Substrings/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/BalancedTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/BalancedTree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/BalancedTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/BalancedTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/DeleteNode/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/DeleteNode/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/DeleteNode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/DeleteNode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/DifferentSearchTrees/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/DifferentSearchTrees/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/DifferentSearchTrees/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/DifferentSearchTrees/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/Heapsort/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/Heapsort/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/Heapsort/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/Heapsort/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/Heapsort/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/Heapsort/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/Heapsort/Sorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/Heapsort/Sorting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/LightBulbs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/LightBulbs/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/LightBulbs/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/LightBulbs/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/MaximumDepth/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/MaximumDepth/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/MaximumDepth/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/MaximumDepth/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/SearchTree/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/SearchTree/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/SearchTree/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/SearchTree/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/TreeAnagram/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/TreeAnagram/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/TreeAnagram/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/TreeAnagram/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/TwinTrees/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/TwinTrees/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_5/src/TwinTrees/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_5/src/TwinTrees/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/BuildAnAdjacencyList/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/BuildAnAdjacencyList/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/BuildAnAdjacencyList/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/BuildAnAdjacencyList/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/ConvertListOfEdgesToAdjacencyMatrix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/ConvertListOfEdgesToAdjacencyMatrix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/ConvertListOfEdgesToAdjacencyMatrix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/ConvertListOfEdgesToAdjacencyMatrix/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/Railways/Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/Railways/Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/Railways/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/Railways/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_6/src/Railways/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_6/src/Railways/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/AllaOnAlgoses/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/AllaOnAlgoses/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/AllaOnAlgoses/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/AllaOnAlgoses/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/Backpack/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/Backpack/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/Backpack/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/Backpack/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/EqualAmounts/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/EqualAmounts/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/EqualAmounts/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/EqualAmounts/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/LevenshteinDistance/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/LevenshteinDistance/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_7/src/LevenshteinDistance/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_7/src/LevenshteinDistance/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/CountingThePrefixFunction/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/CountingThePrefixFunction/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/CountingThePrefixFunction/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/CountingThePrefixFunction/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/Crib/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/Crib/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/Crib/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/Crib/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/Crib/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/Crib/Trie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/Crib/TrieNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/Crib/TrieNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/PackedPrefix/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/PackedPrefix/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sprint_8/src/PackedPrefix/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/Sprint_8/src/PackedPrefix/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2HdeQvPe5SYZs4y9nVBtsblxWKr" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -13,13 +133,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Heapsort.Solution">
+    <configuration name="AnagramGrouping.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AnagramGrouping.Solution" />
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AnagramGrouping.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashTable.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HashTable.Solution" />
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HashTable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Heapsort.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Heapsort.Solution" />
+      <module name="Sprint_5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Heapsort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchSystem.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchSystem.Solution" />
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SearchSystem.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Section.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Section.Solution" />
+      <module name="Sprint_4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Section.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Heapsort.Solution" />
+        <item itemvalue="Application.AnagramGrouping.Solution" />
+        <item itemvalue="Application.Section.Solution" />
+        <item itemvalue="Application.HashTable.Solution" />
+        <item itemvalue="Application.SearchSystem.Solution" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -28,7 +226,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668619377218</updated>
+      <workItem from="1668619378616" duration="9946000" />
+      <workItem from="1668629902560" duration="22000" />
+      <workItem from="1668631840486" duration="132000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

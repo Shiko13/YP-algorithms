@@ -1,2 +1,44 @@
-package SearchInABrokenArray;public class Solution {
+package SearchInABrokenArray;
+
+/*
+ID посылки: https://contest.yandex.ru/contest/23815/run-report/69008267/
+Я делю входной массив пополам, средний элемент сравниваю с искомым, если это и есть искомый, то возвращаю
+его индекс (вообще цикл работает таким образом, что деление происходит до тех пор, пока средний элемент не
+становится искомым, а если это не так, то искомого элемента в массиве не было). Дальше я пользуюсь тем, что
+массив изначально был кольцевым буфером, то есть части слева и справа от него отсортированы. Смотрю, в какой
+из этих двух половин должен находиться искомый элемент, перекидываю указатель на соседний со средним элемент
+(в зависимости от того, с какой половиной буду работать). Так массив постоянно ополовинивается.
+Временную сложность я оценил бы как О(log(n)).
+Я не создаю дополнительных массивов, а  только перекидываю указатели в текущем, так что пространственную
+сложность оцениваю как О(1), поскольку считаем, что массив передаётся подготовленный извне.
+ */
+
+public class Solution {
+    public static int brokenSearch(int[] arr, int k) {
+        int left = 0;
+        int right = arr.length - 1;
+        while (left <= right) {
+            int middle = (left + right) / 2;
+            if (arr[middle] == k) {
+                return middle;
+            } else if (arr[left] <= arr[middle]) {
+                if (arr[left] <= k && arr[middle] > k) {
+                    right = middle - 1;
+                } else {
+                    left = middle + 1;
+                }
+            } else {
+                if (arr[middle] < k && arr[right] >= k) {
+                    left = middle + 1;
+                } else {
+                    right = middle - 1;
+                }
+            }
+        } return -1;
+    }
+
+    private static void test() {
+        int[] arr = {19, 21, 100, 101, 1, 4, 5, 7, 12};
+        assert 6 == brokenSearch(arr, 5);
+    }
 }

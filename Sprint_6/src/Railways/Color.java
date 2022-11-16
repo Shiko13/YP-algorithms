@@ -1,2 +1,7 @@
-package Railways;public enum Color {
+package Railways;
+
+enum Color {
+    WHITE,
+    GREY,
+    BLACK
 }

@@ -6,9 +6,8 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 
-public class Solution {
+public class StackMax {
     ArrayList<Integer> list = new ArrayList<>();
-    static int amountOfCommand;
 
     public static void main(String[] args) throws IOException {
         StackMax stackMax = new StackMax();
@@ -18,16 +17,12 @@ public class Solution {
         for (int i = 0; i < amountOfCommand; i++) {
             StringTokenizer tokenizer = new StringTokenizer(reader.readLine(), " ");
             switch (tokenizer.nextToken()) {
-                case "push":
+                case "push" -> {
                     int a = Integer.parseInt(tokenizer.nextToken());
                     stackMax.push(a);
-                    break;
-                case "pop":
-                    stackMax.pop();
-                    break;
-                case "get_max" :
-                    stackMax.getMax();
-                    break;
+                }
+                case "pop" -> stackMax.pop();
+                case "get_max" -> stackMax.getMax();
             }
         }
     }

@@ -1,4 +1,4 @@
-package Closest_zero;
+package ClosestZero;
 
 import java.io.*;
 import java.util.ArrayList;
